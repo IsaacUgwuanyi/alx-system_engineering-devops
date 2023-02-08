@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod +x 0-current_working_directory
-echo $(pwd)
+pwd
